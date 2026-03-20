@@ -1,0 +1,49 @@
+{
+    "translation": {
+        "navbar": {
+            "home": "Início",
+            "about": "Sobre",
+            "skills": "Habilidades",
+            "projects": "Projetos",
+            "contact": "Contato"
+        },
+        "home": {
+            "greeting": "Olá, seja bem-vindo",
+            "title": "Kaio Santos\nNunes",
+            "role": "Desenvolvedor Full Stack",
+            "description": "Mais de 5 anos desenvolvendo aplicações web completas, do front-end ao back-end, com foco em qualidade, segurança e escalabilidade.",
+            "cta": "Entrar em contato",
+            "projects": "Ver projetos"
+        },
+        "about": {
+            "title": "Sobre",
+            "bio1": "Desenvolvedor Full Stack com mais de 5 anos de experiência em desenvolvimento web. Iniciei minha atuação como Front-end e evoluí para responsabilidades Full Stack, participando da construção e manutenção de aplicações completas.",
+            "bio2": "Tenho experiência no desenvolvimento de interfaces responsivas com React, TypeScript e Tailwind CSS, integração e criação de APIs, modelagem e otimização de bancos de dados com ORMs como Drizzle e Prisma. Atuo também na implementação de autenticação com JWT, criptografia com bcrypt, geração de PDFs dinâmicos e conteinerização com Docker.",
+            "education": "Formação",
+            "educationDegree": "Análise e Desenvolvimento de Sistemas",
+            "educationSchool": "UNIP — Universidade Paulista · 2018 – 2021",
+            "languages": "Idiomas",
+            "portuguese": "Português — Nativo",
+            "english": "Inglês — A1"
+        },
+        "skills": {
+            "title": "Habilidades",
+            "frontend": "Front-end",
+            "backend": "Back-end",
+            "database": "Banco de Dados",
+            "devops": "DevOps & Ferramentas"
+        },
+        "projects": {
+            "title": "Projetos",
+            "code": "Código",
+            "deploy": "Deploy"
+        },
+        "contact": {
+            "title": "Contato",
+            "description": "Estou disponível para novos projetos e oportunidades. Entre em contato por qualquer um dos canais abaixo.",
+            "phone": "Telefone",
+            "email": "E-mail",
+            "downloadCv": "Baixar CV"
+        }
+    }
+}

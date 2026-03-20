@@ -1,0 +1,49 @@
+{
+    "translation": {
+        "navbar": {
+            "home": "Home",
+            "about": "About",
+            "skills": "Skills",
+            "projects": "Projects",
+            "contact": "Contact"
+        },
+        "home": {
+            "greeting": "Hi, welcome",
+            "title": "Kaio Santos\nNunes",
+            "role": "Full Stack Developer",
+            "description": "Over 5 years building complete web applications, from front-end to back-end, focused on quality, security and scalability.",
+            "cta": "Get in touch",
+            "projects": "View projects"
+        },
+        "about": {
+            "title": "About",
+            "bio1": "Full Stack Developer with over 5 years of experience in web development. I started as a Front-end developer and evolved into Full Stack responsibilities, participating in the construction and maintenance of complete applications.",
+            "bio2": "I have experience in building responsive interfaces with React, TypeScript and Tailwind CSS, API integration and creation, database modeling and optimization with ORMs like Drizzle and Prisma. I also work with JWT authentication, bcrypt encryption, dynamic PDF generation and containerization with Docker.",
+            "education": "Education",
+            "educationDegree": "Systems Analysis and Development",
+            "educationSchool": "UNIP — Universidade Paulista · 2018 – 2021",
+            "languages": "Languages",
+            "portuguese": "Portuguese — Native",
+            "english": "English — A1"
+        },
+        "skills": {
+            "title": "Skills",
+            "frontend": "Front-end",
+            "backend": "Back-end",
+            "database": "Database",
+            "devops": "DevOps & Tools"
+        },
+        "projects": {
+            "title": "Projects",
+            "code": "Code",
+            "deploy": "Deploy"
+        },
+        "contact": {
+            "title": "Contact",
+            "description": "I'm available for new projects and opportunities. Feel free to reach out through any of the channels below.",
+            "phone": "Phone",
+            "email": "E-mail",
+            "downloadCv": "Download CV"
+        }
+    }
+}
