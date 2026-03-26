@@ -9,25 +9,25 @@ export function Contact() {
 			icon: <Phone size={16} />,
 			label: t("contact.phone"),
 			value: "+55 28 99986-0328",
-			href: "tel:+5528999860328",
+			href: "https://wa.me/5528999860328?text=Oi%21%20Encontrei%20seu%20perfil%20e%20tenho%20interesse%20no%20seu%20trabalho.%20Podemos%20conversar%20sobre%20uma%20oportunidade%3F",
 		},
 		{
 			icon: <Mail size={16} />,
 			label: t("contact.email"),
-			value: "hello@reallygreatsite.com",
-			href: "mailto:hello@reallygreatsite.com",
+			value: "kaionunes.dev@gmail.com",
+			href: "https://mail.google.com/mail/?view=cm&fs=1&to=kaionunes.dev@gmail.com",
 		},
 		{
 			icon: <Github size={16} />,
 			label: "GitHub",
-			value: "github.com/kaio",
-			href: "https://github.com",
+			value: "github.com/kaiosnunes",
+			href: "https://github.com/kaiosnunes",
 		},
 		{
 			icon: <Linkedin size={16} />,
 			label: "LinkedIn",
-			value: "linkedin.com/in/kaio",
-			href: "https://linkedin.com",
+			value: "linkedin.com/kaio-santos-nunes",
+			href: "https://www.linkedin.com/in/kaio-santos-nunes-788000230/",
 		},
 	];
 
@@ -72,7 +72,7 @@ export function Contact() {
 
 					<div className="flex flex-col gap-4">
 						<a
-							href="https://drive.google.com/uc?export=download&id=SEU_FILE_ID"
+							href="https://drive.google.com/file/d/1TAZRuWFmHAUB8VoYcVfyzmSQBfnEuVtn/view?usp=sharing"
 							target="_blank"
 							rel="noreferrer"
 							className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-medium bg-indigo-500 hover:bg-indigo-600 text-white transition-colors duration-200 w-fit"
